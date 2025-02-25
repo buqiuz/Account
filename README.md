@@ -2,6 +2,8 @@
 
 ### 简介
 
+喜欢记得给个star
+
 本Codelab以记账为例，使用关系型数据库的相关接口实现了对账单的增、删、改、查操作。效果图如下：
 
 ![img.png](screenshots/img.png)![img_7.png](screenshots/img_7.png)![img_1.png](screenshots/img_1.png)![img_2.png](screenshots/img_2.png)![img_6.png](screenshots/img_6.png)
