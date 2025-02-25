@@ -1,0 +1,121 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "记账app"
+
+    },
+    {
+      "name": "edit_text",
+      "value": "编辑"
+    },
+    {
+      "name": "pay_text",
+      "value": "支出"
+    },
+    {
+      "name": "income_text",
+      "value": "收入"
+    },
+    {
+      "name": "count_text",
+      "value": "金额"
+    },
+    {
+      "name": "input_text",
+      "value": "请输入金额"
+    },
+    {
+      "name": "confirm_text",
+      "value": "确定"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "TOAST_TEXT_1",
+      "value": "账目类型不能为空"
+    },
+    {
+      "name": "TOAST_TEXT_2",
+      "value": "账目金额不为正整数"
+    },
+    {
+      "name": "foods",
+      "value": "吃饭"
+    },
+    {
+      "name": "snacks",
+      "value": "零食"
+    },
+    {
+      "name": "fuel",
+      "value": "汽车加油"
+    },
+    {
+      "name": "travel",
+      "value": "旅游"
+    },
+    {
+      "name": "games",
+      "value": "娱乐"
+    },
+    {
+      "name": "pets",
+      "value": "宠物"
+    },
+    {
+      "name": "income",
+      "value": "工作收入"
+    },
+    {
+      "name": "invest",
+      "value": "投资"
+    },
+    {
+      "name": "clothing",
+      "value": "服饰"
+    },
+    {
+      "name": "utilities",
+      "value": "水电气"
+    },
+    {
+      "name": "shopping",
+      "value": "购物"
+    },
+    {
+      "name": "salary",
+      "value": "薪水"
+    },
+    {
+      "name": "bonus",
+      "value": "奖金"
+    },
+    {
+      "name": "wechatPay",
+      "value": "微信"
+    },
+    {
+      "name": "Alipay",
+      "value": "支付宝"
+    },
+    {
+      "name": "applePay",
+      "value": "苹果"
+    },
+    {
+      "name": "card",
+      "value": "银联"
+    }
+  ]
+}

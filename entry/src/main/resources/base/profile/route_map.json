@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "Game1",
+      "pageSourceFile": "src/main/ets/view/EditComponent.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description" : "this is Page"
+      }
+    }
+  ]
+}

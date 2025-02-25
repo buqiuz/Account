@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "Relational database"
+    },
+    {
+      "name": "edit_text",
+      "value": "Edit"
+    },
+    {
+      "name": "pay_text",
+      "value": "Pay"
+    },
+    {
+      "name": "income_text",
+      "value": "Income"
+    },
+    {
+      "name": "count_text",
+      "value": "Amount"
+    },
+    {
+      "name": "input_text",
+      "value": "Please enter the amount"
+    },
+    {
+      "name": "confirm_text",
+      "value": "Confirm"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "TOAST_TEXT_1",
+      "value": "The account item type cannot be empty"
+    },
+    {
+      "name": "TOAST_TEXT_2",
+      "value": "The account item amount is not a positive integer"
+    },
+    {
+      "name": "foods",
+      "value": "Foods"
+    },
+    {
+      "name": "snacks",
+      "value": "Snacks"
+    },
+    {
+      "name": "fuel",
+      "value": "Fuel"
+    },
+    {
+      "name": "travel",
+      "value": "Travel"
+    },
+    {
+      "name": "games",
+      "value": "Games"
+    },
+    {
+      "name": "pets",
+      "value": "Pets"
+    },
+    {
+      "name": "income",
+      "value": "Income"
+    },
+    {
+      "name": "invest",
+      "value": "Invest"
+    },
+    {
+      "name": "clothing",
+      "value": "服饰"
+    },
+    {
+      "name": "utilities",
+      "value": "水电气"
+    },
+    {
+      "name": "shopping",
+      "value": "购物"
+    },
+    {
+      "name": "salary",
+      "value": "薪水"
+    },
+    {
+      "name": "bonus",
+      "value": "奖金"
+    },
+    {
+      "name": "wechatPay",
+      "value": "微信"
+    },
+    {
+      "name": "Alipay",
+      "value": "支付宝"
+    },
+    {
+      "name": "applePay",
+      "value": "苹果"
+    },
+    {
+      "name": "googlePay",
+      "value": "谷歌"
+    },
+    {
+      "name": "card",
+      "value": "银联"
+    }
+  ]
+}

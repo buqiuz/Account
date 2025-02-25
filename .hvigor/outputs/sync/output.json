@@ -1,0 +1,108 @@
+{
+  "ohos-module-entry": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build",
+    "DEPENDENCY_INFO": {
+      "@ohos/mpchart": "F:\\code\\DevEcoStudioProjects\\Account\\oh_modules\\.ohpm\\@ohos+mpchart@3.0.15\\oh_modules\\@ohos\\mpchart"
+    },
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\src\\main",
+        "RESOURCES_PATH": [
+          "F:\\code\\DevEcoStudioProjects\\Account\\entry\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\cache\\default\\default@CompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\cache\\default\\default@CompileJS\\jsbundle",
+          "WORKER_LOADER": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "F:\\code\\DevEcoStudioProjects\\Account\\entry\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {},
+      "targets": [
+        {
+          "name": "default",
+          "runtimeOS": "HarmonyOS"
+        }
+      ]
+    }
+  },
+  "ohos-project": {
+    "SELECT_PRODUCT_NAME": "default",
+    "MODULE_BUILD_DIR": "F:\\code\\DevEcoStudioProjects\\Account\\build",
+    "BUNDLE_NAME": "com.example.rdb",
+    "BUILD_PATH": {
+      "OUTPUT_PATH": "F:\\code\\DevEcoStudioProjects\\Account\\build\\outputs\\default"
+    },
+    "MODULES": [
+      {
+        "name": "entry",
+        "srcPath": "F:\\code\\DevEcoStudioProjects\\Account\\entry",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "F:\\code\\DevEcoStudioProjects\\Account"
+      }
+    ],
+    "PROFILE_OPT": {
+      "app": {
+        "signingConfigs": [],
+        "products": [
+          {
+            "name": "default",
+            "signingConfig": "default",
+            "compatibleSdkVersion": "5.0.0(12)",
+            "runtimeOS": "HarmonyOS"
+          }
+        ]
+      },
+      "modules": [
+        {
+          "name": "entry",
+          "srcPath": "./entry",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CONFIG_PROPERTIES": {
+      "enableSignTask": true,
+      "skipNativeIncremental": false,
+      "hvigor.keepDependency": true
+    },
+    "OVERALL_PROJECT_PATHS": [
+      "F:\\code\\DevEcoStudioProjects\\Account"
+    ]
+  },
+  "version": 1
+}

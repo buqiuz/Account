@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "MPAndroidChart",
+        "License": "Apache-2.0 License",
+        "License File": " LICENSE ",
+        "Version Number": "3.1.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/PhilJay/MPAndroidChart",
+        "Description": "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations."
+    }
+]

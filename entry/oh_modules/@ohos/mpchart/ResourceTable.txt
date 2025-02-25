@@ -1,0 +1,7 @@
+string description_mainability 0x02000000
+string entry_MainAbility 0x02000001
+media icon 0x02000002
+media marker2 0x02000003
+media more 0x02000004
+media radar_marker 0x02000005
+media star 0x02000006
